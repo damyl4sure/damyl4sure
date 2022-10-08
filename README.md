@@ -12,6 +12,7 @@
     "DevOps/Cloud Engineering",
     "Open Source",
     "Linux",
+    "Kubernetes",
     "Music",
     "Jet skiing"
     "Learning",
