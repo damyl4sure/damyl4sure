@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+```json
 {
   "firstName": "Damilola",
   "lastName": "Abioye",
@@ -18,3 +18,4 @@
     "Teaching"
   ]
 }
+```
