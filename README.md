@@ -10,6 +10,7 @@
     "AI",
     "ML",
     "DevOps/Cloud Engineering",
+    "Big Data",
     "Open Source",
     "Linux",
     "Music",
