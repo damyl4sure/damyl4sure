@@ -4,12 +4,12 @@
 {
   "firstName": "Damilola",
   "lastName": "Abioye",
-  "status": "DevOps Engineer",
+  "status": "Software Engineer",
   "institution": "Florida A&M University",
   "interests": [
     "AI",
     "ML",
-    "DevOps/Cloud Engineering",
+    "Platform/DevOps/Cloud Engineering",
     "Open Source",
     "Linux",
     "Music",
